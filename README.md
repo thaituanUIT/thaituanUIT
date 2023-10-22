@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @thaituanUIT
-- 👀 I’m interested in C++ and Python, OOP, machine learning and console app.
-- 🌱 I’m currently learning C++ and Python.
+- 👋 Hi, I’m @thaituanUIT, and my full name is Cu Nguyen Huy Thai Tuan.
+- 📚 I'm currently student of University of Information Technology (Vietnam National University - HCM City) and I major in Computer Science 🖥️.
+- 👀 I’m interested in C++ and Python, game programming, machine learning, front-end and back-end.
+- 🌱 I’m currently learning C++ and Python. In the future, I'm planning to learn CSS/HTML for front-end programming.
 - 💞️ I’m looking to collaborate on an AI project whether it's big or small with people having the same passion as mine.
 - 📫 How to reach me: via Facebook <https://www.facebook.com/junior.justice.712> or Gmail <charlotteglorixia2005@gmail.com>
 
